@@ -12,3 +12,5 @@ def stu_view(request):
     template_name = 'app1/student_form.html'
     context = {'form':form}
     return render(request, template_name, context)
+
+##szskdsjfnnf jdj
